@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T12:28:03.451606Z",
+  "generated_at": "2026-10-12T21:24:56.383755Z",
   "source": "Yahoo Finance chart data",
   "ath_since": "2000-01-01",
   "instruments": [
@@ -9,12 +9,12 @@
       "name": "SPDR S&P 500 ETF Trust",
       "type": "ETF",
       "enabled": true,
-      "prev_close": 769.64,
-      "prev_day_pct_change": -0.9752671044038763,
-      "current_price": 778.57,
-      "current_pct_change": 1.1602827295878582,
+      "prev_close": 774.83,
+      "prev_day_pct_change": 0.11629053438115822,
+      "current_price": 778.1,
+      "current_pct_change": 0.4220280577674984,
       "ath": 781.6199951171875,
-      "drawdown_pct": -0.3902145718176264
+      "drawdown_pct": -0.4503460939045856
     },
     {
       "region": "US",
@@ -22,12 +22,12 @@
       "name": "Vanguard S&P 500 ETF",
       "type": "ETF",
       "enabled": true,
-      "prev_close": 707.54,
-      "prev_day_pct_change": -0.9519313771905735,
-      "current_price": 715.59,
-      "current_pct_change": 1.1377448624812825,
+      "prev_close": 712.32,
+      "prev_day_pct_change": 0.14621114895536635,
+      "current_price": 715.13,
+      "current_pct_change": 0.39448562443844537,
       "ath": 718.469970703125,
-      "drawdown_pct": -0.4008477487662421
+      "drawdown_pct": -0.4648726932673819
     },
     {
       "region": "US",
@@ -35,12 +35,12 @@
       "name": "Invesco QQQ Trust",
       "type": "ETF",
       "enabled": true,
-      "prev_close": 749.58,
-      "prev_day_pct_change": -1.075578461829918,
-      "current_price": 751.27,
-      "current_pct_change": 0.22545959070412458,
+      "prev_close": 756.2,
+      "prev_day_pct_change": 1.1530515413870956,
+      "current_price": 746.04,
+      "current_pct_change": -1.343559904787106,
       "ath": 762.8599853515625,
-      "drawdown_pct": -1.519280808288992
+      "drawdown_pct": -2.204858778090335
     },
     {
       "region": "US",
@@ -48,12 +48,12 @@
       "name": "Invesco NASDAQ 100 ETF",
       "type": "ETF",
       "enabled": true,
-      "prev_close": 308.69,
-      "prev_day_pct_change": -1.0418678002083848,
-      "current_price": 309.39,
-      "current_pct_change": 0.22676471541027698,
+      "prev_close": 311.4,
+      "prev_day_pct_change": 1.1531570005201441,
+      "current_price": 307.19,
+      "current_pct_change": -1.3519588953114892,
       "ath": 314.114990234375,
-      "drawdown_pct": -1.5042230970414683
+      "drawdown_pct": -2.2046035527333308
     },
     {
       "region": "Global",
@@ -61,12 +61,12 @@
       "name": "iShares MSCI World ETF",
       "type": "ETF",
       "enabled": true,
-      "prev_close": 207.53,
-      "prev_day_pct_change": -0.5463162787888387,
-      "current_price": 209.14,
-      "current_pct_change": 0.7757914518382814,
+      "prev_close": 208.55,
+      "prev_day_pct_change": 0.3271298882886686,
+      "current_price": 208.93,
+      "current_pct_change": 0.18221050107887216,
       "ath": 211.94000244140625,
-      "drawdown_pct": -1.3211297580221326
+      "drawdown_pct": -1.4202144034788367
     },
     {
       "region": "US",
@@ -74,12 +74,12 @@
       "name": "Apple",
       "type": "Stock",
       "enabled": true,
-      "prev_close": 333.69,
-      "prev_day_pct_change": -0.8851437041849985,
-      "current_price": 336.64,
-      "current_pct_change": 0.8840540621534831,
+      "prev_close": 332.89,
+      "prev_day_pct_change": -2.211977301778967,
+      "current_price": 340.97,
+      "current_pct_change": 2.427228213523991,
       "ath": 345.3399963378906,
-      "drawdown_pct": -2.51925535129105
+      "drawdown_pct": -1.265418539477503
     },
     {
       "region": "US",
@@ -87,12 +87,12 @@
       "name": "Microsoft",
       "type": "Stock",
       "enabled": true,
-      "prev_close": 517.53,
-      "prev_day_pct_change": -2.308594371069228,
-      "current_price": 535.07,
-      "current_pct_change": 3.3891755067339213,
+      "prev_close": 525.18,
+      "prev_day_pct_change": 0.4917653164832947,
+      "current_price": 541.15,
+      "current_pct_change": 3.0408621805857017,
       "ath": 555.4500122070312,
-      "drawdown_pct": -3.669099245502405
+      "drawdown_pct": -2.5744912940430797
     },
     {
       "region": "US",
@@ -100,12 +100,12 @@
       "name": "NVIDIA",
       "type": "Stock",
       "enabled": true,
-      "prev_close": 233.95,
-      "prev_day_pct_change": -1.4822930065308215,
-      "current_price": 229.28,
-      "current_pct_change": -1.9961530241504488,
+      "prev_close": 238.9,
+      "prev_day_pct_change": 3.65324732234662,
+      "current_price": 226.32,
+      "current_pct_change": -5.265801590623697,
       "ath": 243.3699951171875,
-      "drawdown_pct": -5.789536672506768
+      "drawdown_pct": -7.00579178175913
     },
     {
       "region": "US",
@@ -113,12 +113,12 @@
       "name": "Amazon",
       "type": "Stock",
       "enabled": true,
-      "prev_close": 251.52,
-      "prev_day_pct_change": -3.2317686187215533,
-      "current_price": 262.43,
-      "current_pct_change": 4.337627226463092,
+      "prev_close": 251.4,
+      "prev_day_pct_change": -1.0469958215205688,
+      "current_price": 259.53,
+      "current_pct_change": 3.2338902147971194,
       "ath": 287.20001220703125,
-      "drawdown_pct": -8.624655694365192
+      "drawdown_pct": -9.634404955068398
     },
     {
       "region": "US",
@@ -126,12 +126,12 @@
       "name": "Alphabet Class A",
       "type": "Stock",
       "enabled": true,
-      "prev_close": 343.5,
-      "prev_day_pct_change": -1.9971469329529201,
-      "current_price": 351.66,
-      "current_pct_change": 2.3755458515283934,
+      "prev_close": 346.47,
+      "prev_day_pct_change": -0.5225554854488723,
+      "current_price": 352.72,
+      "current_pct_change": 1.8039079862614438,
       "ath": 408.6099853515625,
-      "drawdown_pct": -13.937492325980106
+      "drawdown_pct": -13.678076247567839
     },
     {
       "region": "US",
@@ -139,12 +139,12 @@
       "name": "Meta Platforms",
       "type": "Stock",
       "enabled": true,
-      "prev_close": 728.08,
-      "prev_day_pct_change": 0.9385704432658182,
-      "current_price": 718.67,
-      "current_pct_change": -1.2924403911658167,
+      "prev_close": 741.9,
+      "prev_day_pct_change": 2.914450876644281,
+      "current_price": 742.96,
+      "current_pct_change": 0.1428763984364645,
       "ath": 796.25,
-      "drawdown_pct": -9.743171114599692
+      "drawdown_pct": -6.692621664050236
     },
     {
       "region": "US",
@@ -152,12 +152,12 @@
       "name": "Tesla",
       "type": "Stock",
       "enabled": true,
-      "prev_close": 370.59,
-      "prev_day_pct_change": -1.9110128385297798,
-      "current_price": 382.7,
-      "current_pct_change": 3.26776221700531,
+      "prev_close": 378.73,
+      "prev_day_pct_change": 0.994666666666677,
+      "current_price": 378.03,
+      "current_pct_change": -0.18482824175535262,
       "ath": 498.8299865722656,
-      "drawdown_pct": -23.280474249404783
+      "drawdown_pct": -24.21666496081132
     }
   ]
 }
